@@ -29,6 +29,7 @@ body {
 
 .container div:hover {
     transform: scale(1.05);
+	opacity: 0.60;
 }
 
 .container div img {
